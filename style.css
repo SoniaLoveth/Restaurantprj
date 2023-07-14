@@ -30,6 +30,14 @@ body {
   position: absolute;
   top: 550px;
 }
+.header3{
+  position: absolute;
+  top: 150px;
+}
+.header4{
+  position: absolute;
+  top: 350px;
+}
 
 .bg-pink-100{
   background: #f7d6e6;
@@ -76,4 +84,10 @@ background-color: rgb(240, 154, 154);
 }
 #nav-footer:hover{
   color: black;
+}
+#btn1:hover{
+  background-color: rgb(68, 67, 67);
+}
+#btn2:hover{
+  background-color: rgb(238, 38, 71);
 }
