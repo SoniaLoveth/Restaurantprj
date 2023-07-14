@@ -91,3 +91,20 @@ background-color: rgb(240, 154, 154);
 #btn2:hover{
   background-color: rgb(238, 38, 71);
 }
+.img7{
+  height: 450px;
+  width: 400px;
+}
+.card{
+  width:350px ;
+  position: absolute;
+  bottom: 50px;
+}
+#card{
+  background-color: rgb(202, 8, 8);
+}
+.img8{
+  width: 200px;
+  height: 100px;
+  
+}
