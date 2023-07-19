@@ -107,7 +107,7 @@ background-color: rgb(240, 154, 154);
 }
 #card{
   background-color: rgb(202, 8, 8);
-  width: 400px;
+  width: 300px;
 }
 .img8{
   width: 200px;
@@ -164,7 +164,7 @@ background-color: rgb(240, 154, 154);
   margin-left: 210px;
 }
 .img14{
-  width: 15%;
+  width: 20%;
   height: 50px;
   border-radius: 20px;
 }
@@ -174,6 +174,6 @@ background-color: rgb(240, 154, 154);
 }
 .img20{
   width: 8%;
-  height: 100px;
+  height: 80px;
   border-radius: 50px;
 }
