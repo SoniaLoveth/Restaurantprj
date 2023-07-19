@@ -94,17 +94,86 @@ background-color: rgb(240, 154, 154);
 .img7{
   height: 450px;
   width: 400px;
-}
-.card{
-  width:350px ;
+  border-radius: 10px;
   position: absolute;
-  bottom: 50px;
+  top: 600px;
+}
+
+.card{
+  width:200px ;
+  position: absolute;
+  bottom: 80px;
+  margin-left: 100px;
 }
 #card{
   background-color: rgb(202, 8, 8);
+  width: 400px;
 }
 .img8{
   width: 200px;
   height: 100px;
   
+  
+}
+.img10{
+  width: 95%;
+  height: 250px;
+  border-radius: 10px;
+  position: relative;
+}
+.second{
+  position: absolute;
+  top:1250px;
+  margin-left: 210px;
+}
+.img9{
+  width: 45%;
+  height: 200px;
+  margin-top: 20px;
+  border-radius: 10px;
+  margin-left: 7px;
+  position: relative;
+}
+.third{
+ position: absolute;
+ top: 1470px;
+ margin-left: 15px;
+}
+.img11{
+  width: 45%;
+  height: 200px;
+  margin-top: 20px;
+  border-radius: 10px;
+  margin-left: 20px;
+  position: relative;
+}
+.fourth{
+  position: absolute;
+  top: 1470px;
+  margin-left: 320px;
+}
+.img12{
+  width: 100%;
+  height: 470px;
+  border-radius: 10px;
+  position: relative;
+}
+.fifth{
+  position: absolute;
+  top: 1350px;
+  margin-left: 210px;
+}
+.img14{
+  width: 15%;
+  height: 50px;
+  border-radius: 20px;
+}
+
+.bg-pink-200{
+  background: #fbb1d5;
+}
+.img20{
+  width: 8%;
+  height: 100px;
+  border-radius: 50px;
 }
